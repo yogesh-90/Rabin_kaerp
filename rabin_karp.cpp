@@ -14,6 +14,7 @@ void find(string txt, string pat)
 
     }
 }
+// asfhdfdg
 int main()
 {
     string txt = "aaabakjaba";
